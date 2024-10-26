@@ -1,0 +1,15 @@
+.title{
+    color: rgb(24, 17, 4);
+    background-color: white;
+    padding: 20px;
+}
+
+a {
+    border-radius: 3px;
+    transition: background-color 0.3s;
+}
+
+a:hover{
+    background-color: rgb(219, 211, 211);
+    color: #092a4d;
+}
