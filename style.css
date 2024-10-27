@@ -10,6 +10,7 @@ a {
 }
 
 a:hover{
-    background-color: rgb(219, 211, 211);
+    /* background-color: rgb(219, 211, 211); */
     color: #092a4d;
+    border: 1px solid #494747
 }
